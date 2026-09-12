@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm a Software Engineering Student 👋
 
-<!--
-**cardigan-official/cardigan-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at FAST, passionate about building software and creating games.
 
-Here are some ideas to get you started:
+💻 Software Engineering
+🎮 Game Development with Godot
+🕹️ Building and experimenting with games
+🚀 Learning new technologies and improving my development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into working projects and exploring both software development and game development. Currently, I'm focused on expanding my skills, building projects, and learning through hands-on experience.
+
+🎯 What I'm Interested In
+Software Development
+Game Development
+Godot Engine
+Problem Solving
+Learning New Technologies
+
+Code it. Build it. Play it. 🚀
