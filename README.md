@@ -3,7 +3,6 @@
 ## Software Engineering Student @ FAST
 
 I'm a **Software Engineering student at FAST**, passionate about building software and creating games.
-
 ### 💻 Software Engineering
 ### 🎮 Game Development with Godot
 ### 🕹️ Building and Experimenting with Games
