@@ -1,4 +1,4 @@
-#**Hi, I'm a Software Engineering Student 👋**
+##**Hi, I'm a Software Engineering Student 👋**
 
 I'm a Software Engineering student at FAST, passionate about building software and creating games.
 
